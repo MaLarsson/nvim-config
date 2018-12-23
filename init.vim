@@ -1,6 +1,7 @@
 call plug#begin('~/.config/nvim/plugged')
 
 Plug 'morhetz/gruvbox'
+Plug 'tpope/vim-fugitive'
 Plug 'pboettch/vim-cmake-syntax'
 Plug 'vim-airline/vim-airline'
 Plug 'rhysd/vim-clang-format'
